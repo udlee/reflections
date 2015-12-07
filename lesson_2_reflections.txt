@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a subdirectory .git(with dot at the beginning it makes the file hidden from view.) .git contains all of the necessary repository files. Now you can tie all of the programing for your project together in one place. It is now easier to check for bugs.
